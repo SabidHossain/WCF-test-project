@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\WCFTest\WcfTest\WcfTest\bin\Debug\WcfTest.exe.config
+C:\Users\Administrator\Desktop\WCFTest\WcfTest\WcfTest\bin\Debug\WcfTest.exe
+C:\Users\Administrator\Desktop\WCFTest\WcfTest\WcfTest\bin\Debug\WcfTest.pdb
+C:\Users\Administrator\Desktop\WCFTest\WcfTest\WcfTest\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\WCFTest\WcfTest\WcfTest\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\WCFTest\WcfTest\WcfTest\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\WCFTest\WcfTest\WcfTest\obj\Debug\WcfTest_MarkupCompile.cache
+C:\Users\Administrator\Desktop\WCFTest\WcfTest\WcfTest\obj\Debug\WcfTest.g.resources
+C:\Users\Administrator\Desktop\WCFTest\WcfTest\WcfTest\obj\Debug\WcfTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WCFTest\WcfTest\WcfTest\obj\Debug\WcfTest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\WCFTest\WcfTest\WcfTest\obj\Debug\WcfTest.exe
+C:\Users\Administrator\Desktop\WCFTest\WcfTest\WcfTest\obj\Debug\WcfTest.pdb
